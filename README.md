@@ -1,4 +1,4 @@
-Splay Tree Implementation for Network Router IP Address Management in C++
+Splay Tree Implementation for Network Router IP Address Management in C++ and C
 Purpose:
 
 This C++ project demonstrates the use of a splay tree data structure to efficiently manage and search for IP addresses of devices connected to a network router. Splay trees are particularly well-suited for this task due to their self-balancing properties, which ensure fast search and insertion operations.
